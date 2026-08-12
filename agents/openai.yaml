@@ -1,0 +1,4 @@
+interface:
+  display_name: "Codex 剪映草稿封面"
+  short_description: "补充 Codex 生成剪映草稿时直接写入独立可编辑封面的能力"
+  default_prompt: "使用 $codex-jianying-draft-cover 为 Codex 生成的剪映草稿直接写入独立封面，并保持主时间线与时长不变。"
